@@ -1,2 +1,7 @@
 # hello-world
-Just another repositoly
+
+
+Hi!I'm a genzai.
+I'm studying Python.
+I want use all of linux parfectly.
+
